@@ -1,4 +1,4 @@
-# Magisk Modules Repo Util
+Magisk Modules Repo Util
 
 This util is to build module repository for [MMRL](https://github.com/DerGoogler/MMRL)
 
